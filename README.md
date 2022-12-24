@@ -2,7 +2,11 @@
 概要説明:
 お問い合わせフォームから保存、送信
 管理画面にて確認、削除、検索
-![Alt text](../../../Users/liber/Pictures/Screenshots/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%20(7).png)
+![スクリーンショット (7)](https://user-images.githubusercontent.com/113746605/209441693-9a04005d-a35f-4fac-91a3-2d75ea2efa76.png)
+
+##アプリケーションURL
+/ お問い合わせフォーム
+/search 管理画面
 
 ## 作成した目的
 概要説明 アドバンステスト
@@ -18,7 +22,7 @@
 Laravel　8.x php, html, css
 
 ## テーブル設計
-![Alt text](../../../Users/liber/Pictures/Screenshots/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%20(6).png)
+![スクリーンショット (6)](https://user-images.githubusercontent.com/113746605/209441702-5cf9103b-8a80-4465-991c-ec951c2ec768.png)
 
 ## ER図
-![Alt text](../../../../C:/xampp/htdocs/advance/index.drawio.png)
+![index drawio](https://user-images.githubusercontent.com/113746605/209441709-21edb84e-71fe-4d04-b084-f753f33b417e.png)
